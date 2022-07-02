@@ -1,0 +1,7 @@
+alembic==1.8.0
+dnspython==2.2.1
+fastapi==0.78.0
+fastapi-mail==1.0.9
+fastapi-utils==0.2.1
+SQLAlchemy==1.4.39
+uvicorn==0.18.2

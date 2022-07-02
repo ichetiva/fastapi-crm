@@ -13,7 +13,7 @@ MAIL_CONFIG = {
     'from': os.getenv('MAIL_FROM'),
     'port': os.getenv('MAIL_PORT'),
     'server': os.getenv('MAIL_SERVER'),
-    'from_name': os.getenv('MAIL_FROM_NAME'),
+    'from_name': os.getenv('MAIL_USERNAME'),
 }
 
 DOMAIN = 'http://localhost:8080/'
